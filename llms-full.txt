@@ -1,0 +1,126 @@
+# Yifat Aran — Full Research Profile
+
+> Dr. Yifat Aran is a legal scholar and Assistant Professor at the University of Haifa Faculty of Law. Her research examines how law structures innovation ecosystems, with a focus on venture capital governance, startup equity compensation, and the intersection of corporate/securities law and labor law.
+
+## About
+
+- Name: Dr. Yifat Aran
+- Title: Assistant Professor of Law
+- Affiliation: University of Haifa Faculty of Law
+- Additional roles: Research Fellow at Rutgers Institute for the Study of Employee Ownership and Profit Sharing; Lecturer, MBA Program at the Technion – Israel Institute of Technology
+- Education: J.S.D. & J.S.M. from Stanford Law School (SIGF Fellow, John M. Olin Fellow); LL.B. & LL.M. from Hebrew University of Jerusalem (Valedictorian)
+- Former law clerk to Chief Justice Dorit Beinisch and Chief Justice Dr. Asher Grunis, Supreme Court of Israel
+- ORCID: 0000-0002-4745-9068
+
+## Research Areas
+
+- Venture capital law and comparative venture law
+- Startup equity compensation (stock options, RSUs, employee ownership)
+- Founder-centric governance and dual-class stock structures
+- Corporate law and securities regulation
+- Innovation ecosystems and private ordering
+- The intersection of corporate/securities law and labor law
+- Post-IPO governance of venture-backed firms
+- Employee ownership and shared capitalism
+
+## Publications with Summaries
+
+### Law Reviews
+
+1. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "Exit after Exit," Harv. Bus. L. Rev. (forthcoming).
+   Summary: Challenges the conventional view that an IPO marks a clean exit for venture capital investors and a sharp transition from private to public governance. Drawing on evidence from venture-backed IPOs, the paper shows that venture capitalists often retain substantial post-IPO influence through continued ownership, voting rights, and board presence, such that the IPO functions as a staged and fluid governance transition rather than an endpoint. Reframes debates over dual-class stock and founder control by documenting persistent founder-VC coalitions and hybrid governance arrangements in public firms.
+
+2. Gad Weiss, Kobi Ben Chitrit & Yifat Aran, "Let it Go: A Comparative Perspective on the Enforceability of Pay-to-Play Provisions," TAU Law Rev. (forthcoming).
+   Summary: Provides the first comparative analysis of pay-to-play provisions in venture capital across multiple jurisdictions, examining how different legal regimes shape investor protections and follow-on investment incentives.
+
+3. Yifat Aran & Nizan Geslevich Packin, "Due Diligence Dilemma," 2025 U. Ill. L. Rev. 101 (2025).
+   Summary: Identifies a core tension in venture capital between the imperative to invest rapidly and the expectation that VCs serve as gatekeepers through independent diligence, showing how cyclical market conditions incentivize "proxy due diligence"—inferring trustworthiness from the presence of other reputable investors rather than conducting independent verification.
+
+4. Elizabeth Pollman & Yifat Aran, "Ousted," 25 Theoretical Inquiries L. 231 (2024).
+   Summary: Challenges the prevailing assumption that founder-CEOs with voting control are untouchable, documenting numerous cases where founders were ousted despite retaining formal power, and mapping the countervailing forces—board dynamics, investor pressure, and reputational mechanisms—that can override governance protections.
+
+5. Yifat Aran, "The Start-up Law of the Start-up Nation," 52 Heb. U. L. Rev. (Mishpatim) 115 (2025).
+   Summary: Maps the organizational features of venture-backed startups in Israel and analyzes Israeli court cases on shareholder disputes, advocating for a nuanced legal framework adapted to the unique governance dynamics of the startup ecosystem.
+
+6. Yifat Aran, "Making Disclosure Work for Start-Up Employees," 2019 Colum. Bus. L. Rev. 867 (2019).
+   Summary: Proposes a regulatory framework to improve information disclosure to startup employees receiving equity compensation, arguing that current securities exemptions leave employees unable to assess the value and risks of their stock options.
+
+7. Yifat Aran, "Beyond Covenants Not to Compete: Equilibrium in High-Tech Startup Labor Markets," 70 Stan. L. Rev. 1235 (2018).
+   Summary: Develops a novel theoretical framework showing how equity-based compensation serves as a functional substitute for noncompete agreements in startup labor markets, with implications for employee mobility, innovation policy, and the design of compensation contracts.
+
+### Peer-Reviewed Journals
+
+8. Yifat Aran, "Shared Capitalism at a Crossroads: Equity Compensation and Factor Bargaining Power in the Innovation Economy," Int'l Rev. Applied Econ. 1–18 (2026). DOI: 10.1080/02692171.2026.2648518. URL: https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2648518
+   Summary: Frames broad-based equity compensation in tech as a structural response to human-capital scarcity and high labor mobility, and argues that artificial intelligence may constitute a fundamental break in this arrangement. By eroding the scarcity that historically justified widespread equity grants, AI threatens to shift the balance of bargaining power between labor and capital. The article examines the institutional conditions under which shared capitalism might nonetheless persist.
+
+9. Yifat Aran & Raviv Murciano-Goroff, "Equity Illusions," 41(1) The Journal of Law, Economics, and Organization 196 (2025).
+   Summary: Presents original experimental and survey evidence that startup employees harbor systematic "market illusions" about equity compensation, responding to economically irrelevant signals when deciding to forgo cash for stock options—pointing to significant labor market inefficiencies in the tech sector. Winner of the 2024 Academy of Management Employee Participation and Financial Ownership Scholarly Research Award.
+
+### Book Chapters
+
+10. Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (Brian J. Broughman & Elisabeth de Fontenay eds., Edward Elgar Publ'g 2026).
+   Summary: Examines how the shift from stock options to restricted stock units (RSUs) in late-stage startups creates new risks for employees, particularly through double-trigger vesting structures, and proposes regulatory responses for the unicorn era.
+
+11. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sanne Taekema, Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
+    Summary: Evaluates the impact of Israel's specialized corporate court on corporate and securities law adjudication, providing empirical evidence on how judicial specialization evolves and affects case outcomes over time.
+
+### Working Papers
+
+12. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," U. Pa. Inst. for L. & Econ. Rsch. Paper No. 24-38 (Dec. 2024).
+    Summary: Provides the first large-scale empirical study of CEO turnover at dual-class firms, revealing that founder-CEOs at companies with differential voting structures are replaced more frequently than commonly assumed, and analyzing the governance mechanisms that facilitate these transitions.
+
+## Key Research Themes
+
+### Division of Control and Ownership in Private, VC-Backed Companies
+How do venture capital investors and founders allocate control rights, and what happens when these arrangements break down? Dr. Aran's work on "Ousted" and "CEO Turnover in Dual-Class Firms" documents the dynamics of founder removal and governance transitions.
+
+### Equity Compensation and the Intersection of Talent and Capital Markets
+Equity-based compensation is central to the startup economy. Dr. Aran's research ("Equity Illusions," "Making Disclosure Work," "Beyond Covenants Not to Compete," "The RSU Time Bomb") examines how employees understand, value, and are affected by stock options and RSUs, revealing systematic information asymmetries and market failures.
+
+### Post-IPO Governance of VC-Backed Firms
+What governance legacies do VC-backed firms carry into the public markets? "Exit after Exit" challenges the assumption that IPOs mark a clean break, documenting persistent venture capital influence in public companies.
+
+### Comparative Venture Law and the Entrepreneurial Ecosystem
+Israel's innovation ecosystem offers a distinctive case study. "The Start-up Law of the Start-up Nation" and "Let it Go" provide comparative analyses of how different legal regimes shape venture capital practices.
+
+## Selected Awards & Honors
+
+- Annual Research Award, University of Haifa (2026)
+- Nachson and Arieh Mimran Fellowship, Rutgers Institute for Employee Ownership (2025)
+- Etty and Dusty Miller Award for Outstanding Researchers, University of Haifa (2024)
+- Employee Participation and Financial Ownership Scholarly Research Award, Academy of Management HR Division (2024)
+- Shneior Zalman Heshin Prize for Young Scholar, Hebrew University of Jerusalem (2024)
+- Institute Fellowship, Rutgers Institute for Employee Ownership (2022–2023)
+- Donna Schweers and Thomas Geiser Interdisciplinary Graduate Fellowship (SIGF), Stanford (2017–2020)
+- John M. Olin Fellow, Stanford Law School (2017)
+- John Hart Ely Prize, Stanford Law School (2017)
+- Intellectual Property Writing Award, Stanford Law School (2017)
+- Gerald Gunther Prize, Stanford Law School (2015)
+- Lionel Cohen Award (Valedictorian), Hebrew University Law School (2010)
+
+## Media Coverage (Selected)
+
+Dr. Aran's research has been featured in:
+- ECGI Blog: "E.U. Stock Option Policy: Time for a Holistic Approach" (with Casimiro Nigro) (2026)
+- Harvard Business Review: "When It Comes to Compensation, More Equity Isn't Always Better" (2023)
+- New York Times: "The Hidden Risk of Getting Paid in Stock Options" (2023)
+- TechCrunch: "What's Happening in Venture Law in 2021?" (2021); "The SEC Should Do More to Make Startup Equity Compensation Transparent" (2021)
+- Forbes: "Going Dark: The Explosive Growth of Private Markets" (2021)
+- Harvard Law School Forum on Corporate Governance (multiple posts, 2023–2025)
+- Oxford Business Law Blog (2024)
+- TheMarker, Globes, Calcalist (Israeli financial press, 2021–2025)
+
+## Teaching
+
+- Corporate Law (University of Haifa, Fall, 2021–2025)
+- Law and Entrepreneurship (Technion MBA Program, Winter, 2022–2025)
+- Corporate Law in the ESG Era (University of Haifa Seminar, Spring, 2022–2025)
+
+## Links
+
+- Website: https://www.yifataran.com
+- ORCID: https://orcid.org/0000-0002-4745-9068
+- Google Scholar: https://scholar.google.com/citations?user=teQwDIMAAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/yifataran/
+- University profile: https://law.haifa.ac.il/en/our-staff/lecturers/yifat-aran/
+- Email: aranyifat@law.haifa.ac.il
