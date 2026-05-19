@@ -56,18 +56,16 @@
 9. Yifat Aran & Raviv Murciano-Goroff, "Equity Illusions," 41(1) The Journal of Law, Economics, and Organization 196 (2025).
    Summary: Presents original experimental and survey evidence that startup employees harbor systematic "market illusions" about equity compensation, responding to economically irrelevant signals when deciding to forgo cash for stock options—pointing to significant labor market inefficiencies in the tech sector. Winner of the 2024 Academy of Management Employee Participation and Financial Ownership Scholarly Research Award.
 
+10. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," Journal of Legal Studies (forthcoming 2026).
+   Summary: Provides the first large-scale empirical study of CEO turnover at dual-class firms, revealing that founder-CEOs at companies with differential voting structures are replaced more frequently than commonly assumed, and analyzing the governance mechanisms that facilitate these transitions.
+
 ### Book Chapters
 
-10. Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (Brian J. Broughman & Elisabeth de Fontenay eds., Edward Elgar Publ'g 2026).
+11. Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (Brian J. Broughman & Elisabeth de Fontenay eds., Edward Elgar Publ'g 2026).
    Summary: Examines how the shift from stock options to restricted stock units (RSUs) in late-stage startups creates new risks for employees, particularly through double-trigger vesting structures, and proposes regulatory responses for the unicorn era.
 
-11. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sanne Taekema, Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
+12. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sanne Taekema, Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
     Summary: Evaluates the impact of Israel's specialized corporate court on corporate and securities law adjudication, providing empirical evidence on how judicial specialization evolves and affects case outcomes over time.
-
-### Working Papers
-
-12. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," U. Pa. Inst. for L. & Econ. Rsch. Paper No. 24-38 (Dec. 2024).
-    Summary: Provides the first large-scale empirical study of CEO turnover at dual-class firms, revealing that founder-CEOs at companies with differential voting structures are replaced more frequently than commonly assumed, and analyzing the governance mechanisms that facilitate these transitions.
 
 ## Key Research Themes
 
