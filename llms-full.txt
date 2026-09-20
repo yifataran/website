@@ -9,6 +9,7 @@
 - Affiliation: University of Haifa Faculty of Law
 - Additional roles: Research Fellow at Rutgers Institute for the Study of Employee Ownership and Profit Sharing; Lecturer, MBA Program at the Technion – Israel Institute of Technology
 - Education: J.S.D. & J.S.M. from Stanford Law School (SIGF Fellow, John M. Olin Fellow); LL.B. & LL.M. from Hebrew University of Jerusalem (Valedictorian)
+- Visiting Scholar, Stanford Law School (2026)
 - Former law clerk to Chief Justice Dorit Beinisch and Chief Justice Dr. Asher Grunis, Supreme Court of Israel
 - ORCID: 0000-0002-4745-9068
 
@@ -50,21 +51,24 @@
 
 ### Peer-Reviewed Journals
 
-8. Yifat Aran, "Shared Capitalism at a Crossroads: Equity Compensation and Factor Bargaining Power in the Innovation Economy," Int'l Rev. Applied Econ. 1–18 (2026). DOI: 10.1080/02692171.2026.2648518. URL: https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2648518
+8. Yifat Aran, "The Optional Firm: The Silicon Valley Model of Startup Organization," Eur. Bus. L. Rev. (forthcoming).
+   Summary: Develops the venture-backed startup as an "optional firm," in which optionality runs throughout the capital structure—staged financing, convertible preferred stock, liquidation preferences, and founder and employee vesting all derive their value from the common-stock residual claim. Introduces "contingent shared ownership" as a unified framework for startup governance that synthesizes principal-agent and team-production theories, and argues that corporate law's protection of the residual claim sustains a dual selection process reallocating both financial and human capital toward higher-value firms.
+
+9. Yifat Aran, "Shared Capitalism at a Crossroads: Equity Compensation and Factor Bargaining Power in the Innovation Economy," Int'l Rev. Applied Econ. 1–18 (2026). DOI: 10.1080/02692171.2026.2648518. URL: https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2648518
    Summary: Frames broad-based equity compensation in tech as a structural response to human-capital scarcity and high labor mobility, and argues that artificial intelligence may constitute a fundamental break in this arrangement. By eroding the scarcity that historically justified widespread equity grants, AI threatens to shift the balance of bargaining power between labor and capital. The article examines the institutional conditions under which shared capitalism might nonetheless persist.
 
-9. Yifat Aran & Raviv Murciano-Goroff, "Equity Illusions," 41(1) The Journal of Law, Economics, and Organization 196 (2025).
+10. Yifat Aran & Raviv Murciano-Goroff, "Equity Illusions," 41(1) The Journal of Law, Economics, and Organization 196 (2025).
    Summary: Presents original experimental and survey evidence that startup employees harbor systematic "market illusions" about equity compensation, responding to economically irrelevant signals when deciding to forgo cash for stock options—pointing to significant labor market inefficiencies in the tech sector. Winner of the 2024 Academy of Management Employee Participation and Financial Ownership Scholarly Research Award.
 
-10. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," Journal of Legal Studies (forthcoming 2026).
+11. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," Journal of Legal Studies (forthcoming 2026).
    Summary: Provides the first large-scale empirical study of CEO turnover at dual-class firms, revealing that founder-CEOs at companies with differential voting structures are replaced more frequently than commonly assumed, and analyzing the governance mechanisms that facilitate these transitions.
 
 ### Book Chapters
 
-11. Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (Brian J. Broughman & Elisabeth de Fontenay eds., Edward Elgar Publ'g 2026).
+12. Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (Brian J. Broughman & Elisabeth de Fontenay eds., Edward Elgar Publ'g 2026).
    Summary: Examines how the shift from stock options to restricted stock units (RSUs) in late-stage startups creates new risks for employees, particularly through double-trigger vesting structures, and proposes regulatory responses for the unicorn era.
 
-12. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sanne Taekema, Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
+13. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sanne Taekema, Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
     Summary: Evaluates the impact of Israel's specialized corporate court on corporate and securities law adjudication, providing empirical evidence on how judicial specialization evolves and affects case outcomes over time.
 
 ## Key Research Themes
@@ -85,7 +89,6 @@ Israel's innovation ecosystem offers a distinctive case study. "The Start-up Law
 
 - Liquidity Without Listing: The Legal and Institutional Infrastructure of Private Capital Markets, Israel Science Foundation (ISF), PI (2026–2029)
 - Indefinitely Private, University of Haifa International Collaboration Fund, PI (2025)
-- Secondary Sales of Startup Employee Stock in the US and Israel, Vanderbilt University, Co-PI with Brian Broughman (2024)
 - Theoretical and Comparative Analysis of Startup Ownership, Israel Science Foundation (ISF), PI (2023–2025)
 
 ## Selected Awards & Honors
