@@ -37,10 +37,10 @@
 3. Yifat Aran & Nizan Geslevich Packin, "Due Diligence Dilemma," 2025 U. Ill. L. Rev. 101 (2025).
    Summary: Identifies a core tension in venture capital between the imperative to invest rapidly and the expectation that VCs serve as gatekeepers through independent diligence, showing how cyclical market conditions incentivize "proxy due diligence"—inferring trustworthiness from the presence of other reputable investors rather than conducting independent verification.
 
-4. Elizabeth Pollman & Yifat Aran, "Ousted," 25 Theoretical Inquiries L. 231 (2024).
+4. Yifat Aran & Elizabeth Pollman, "Ousted," 25 Theoretical Inquiries L. 231 (2024).
    Summary: Challenges the prevailing assumption that founder-CEOs with voting control are untouchable, documenting numerous cases where founders were ousted despite retaining formal power, and mapping the countervailing forces—board dynamics, investor pressure, and reputational mechanisms—that can override governance protections.
 
-5. Yifat Aran, "The Start-up Law of the Start-up Nation," 52 Heb. U. L. Rev. (Mishpatim) 115 (2025).
+5. Yifat Aran, "The Start-up Law of the Start-up Nation," 53 Heb. U. L. Rev. (Mishpatim) 115 (2024).
    Summary: Maps the organizational features of venture-backed startups in Israel and analyzes Israeli court cases on shareholder disputes, advocating for a nuanced legal framework adapted to the unique governance dynamics of the startup ecosystem.
 
 6. Yifat Aran, "Making Disclosure Work for Start-Up Employees," 2019 Colum. Bus. L. Rev. 867 (2019).
@@ -60,7 +60,7 @@
 10. Yifat Aran & Raviv Murciano-Goroff, "Equity Illusions," 41(1) The Journal of Law, Economics, and Organization 196 (2025).
    Summary: Presents original experimental and survey evidence that startup employees harbor systematic "market illusions" about equity compensation, responding to economically irrelevant signals when deciding to forgo cash for stock options—pointing to significant labor market inefficiencies in the tech sector. Winner of the 2024 Academy of Management Employee Participation and Financial Ownership Scholarly Research Award.
 
-11. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," Journal of Legal Studies (forthcoming 2026).
+11. Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover at Dual-Class Firms," Journal of Legal Studies (forthcoming 2026).
    Summary: Provides the first large-scale empirical study of CEO turnover at dual-class firms, revealing that founder-CEOs at companies with differential voting structures are replaced more frequently than commonly assumed, and analyzing the governance mechanisms that facilitate these transitions.
 
 ### Book Chapters
@@ -68,13 +68,13 @@
 12. Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (Brian J. Broughman & Elisabeth de Fontenay eds., Edward Elgar Publ'g 2026).
    Summary: Examines how the shift from stock options to restricted stock units (RSUs) in late-stage startups creates new risks for employees, particularly through double-trigger vesting structures, and proposes regulatory responses for the unicorn era.
 
-13. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sanne Taekema, Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
+13. Yifat Aran & Moran Ofir, "The Effect of Specialised Courts over Time," in Time, Law and Change: An Interdisciplinary Study (Sofia Ranchordás & Yaniv Roznai eds., Hart Publ'g 2020).
     Summary: Evaluates the impact of Israel's specialized corporate court on corporate and securities law adjudication, providing empirical evidence on how judicial specialization evolves and affects case outcomes over time.
 
 ## Key Research Themes
 
 ### Division of Control and Ownership in Private, VC-Backed Companies
-How do venture capital investors and founders allocate control rights, and what happens when these arrangements break down? Dr. Aran's work on "Ousted" and "CEO Turnover in Dual-Class Firms" documents the dynamics of founder removal and governance transitions.
+How do venture capital investors and founders allocate control rights, and what happens when these arrangements break down? Dr. Aran's work on "Ousted" and "CEO Turnover at Dual-Class Firms" documents the dynamics of founder removal and governance transitions.
 
 ### Equity Compensation and the Intersection of Talent and Capital Markets
 Equity-based compensation is central to the startup economy. Dr. Aran's research ("Equity Illusions," "Making Disclosure Work," "Beyond Covenants Not to Compete," "The RSU Time Bomb") examines how employees understand, value, and are affected by stock options and RSUs, revealing systematic information asymmetries and market failures.
@@ -121,9 +121,9 @@ Dr. Aran's research has been featured in:
 
 ## Teaching
 
-- Corporate Law (University of Haifa, Fall, 2021–2025)
-- Law and Entrepreneurship (Technion MBA Program, Winter, 2022–2025)
-- Corporate Law in the ESG Era (University of Haifa Seminar, Spring, 2022–2025)
+- Corporate Law (University of Haifa, Fall, 2021–2026)
+- Entrepreneurship and Regulation (Technion MBA Program, Winter, 2022–2026)
+- Corporate Law in the ESG Era (University of Haifa Seminar, Spring, 2023–2026)
 
 ## Links
 

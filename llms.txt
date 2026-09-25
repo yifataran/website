@@ -29,8 +29,8 @@
 - Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "Exit after Exit," Harv. Bus. L. Rev. (forthcoming). SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7499098
 - Gad Weiss, Kobi Ben Chitrit & Yifat Aran, "Let it Go: A Comparative Perspective on the Enforceability of Pay-to-Play Provisions," TAU Law Rev. (forthcoming)
 - Yifat Aran & Nizan Geslevich Packin, "Due Diligence Dilemma," 2025 U. Ill. L. Rev. 101 (2025)
-- Elizabeth Pollman & Yifat Aran, "Ousted," 25 Theoretical Inquiries L. 231 (2024)
-- Yifat Aran, "The Start-up Law of the Start-up Nation," 52 Heb. U. L. Rev. (Mishpatim) 115 (2025)
+- Yifat Aran & Elizabeth Pollman, "Ousted," 25 Theoretical Inquiries L. 231 (2024)
+- Yifat Aran, "The Start-up Law of the Start-up Nation," 53 Heb. U. L. Rev. (Mishpatim) 115 (2024)
 - Yifat Aran, "Making Disclosure Work for Start-Up Employees," 2019 Colum. Bus. L. Rev. 867 (2019)
 - Yifat Aran, "Beyond Covenants Not to Compete: Equilibrium in High-Tech Startup Labor Markets," 70 Stan. L. Rev. 1235 (2018)
 
@@ -38,7 +38,7 @@
 - Yifat Aran, "The Optional Firm: The Silicon Valley Model of Startup Organization," Eur. Bus. Org. L. Rev. (forthcoming). SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7521818
 - Yifat Aran, "Shared Capitalism at a Crossroads: Equity Compensation and Factor Bargaining Power in the Innovation Economy," Int'l Rev. Applied Econ. 1–18 (2026). DOI: 10.1080/02692171.2026.2648518
 - Yifat Aran & Raviv Murciano-Goroff, "Equity Illusions," 41(1) The Journal of Law, Economics, and Organization 196 (2025)
-- Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover in Dual-Class Firms," Journal of Legal Studies (forthcoming 2026)
+- Yifat Aran, Brian J. Broughman & Elizabeth Pollman, "CEO Turnover at Dual-Class Firms," Journal of Legal Studies (forthcoming 2026)
 
 ### Book Chapters
 - Yifat Aran, "The RSU Time Bomb: Regulating Startup Equity Compensation in the Unicorn Era," in Research Handbook on the Structure of Private Equity and Venture Capital (2026)
@@ -70,9 +70,9 @@
 
 ## Teaching
 
-- Corporate Law (University of Haifa, Fall, 2021–2025)
-- Law and Entrepreneurship (Technion MBA Program, Winter, 2022–2025)
-- Corporate Law in the ESG Era (University of Haifa Seminar, Spring, 2022–2025)
+- Corporate Law (University of Haifa, Fall, 2021–2026)
+- Entrepreneurship and Regulation (Technion MBA Program, Winter, 2022–2026)
+- Corporate Law in the ESG Era (University of Haifa Seminar, Spring, 2023–2026)
 
 ## Links
 
