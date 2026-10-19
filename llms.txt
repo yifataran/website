@@ -1,6 +1,6 @@
 # Yifat Aran
 
-> Dr. Yifat Aran is a legal scholar specializing in corporate law, securities regulation, and innovation ecosystems. She is an Assistant Professor at the University of Haifa Faculty of Law.
+> Dr. Yifat Aran is a legal scholar specializing in corporate law, securities regulation, and innovation ecosystems. She is an Assistant Professor at the University of Haifa Faculty of Law and a Visiting Scholar at Stanford Law School (2026–2027).
 
 > For detailed publication summaries and research contributions, see [llms-full.txt](https://www.yifataran.com/llms-full.txt).
 
@@ -74,6 +74,7 @@
 - Corporate Law (University of Haifa, Fall, 2021–2026)
 - Entrepreneurship and Regulation (Technion MBA Program, Winter, 2022–2026)
 - Corporate Law in the ESG Era (University of Haifa Seminar, Spring, 2023–2026)
+- Law and Entrepreneurship (University of Haifa Seminar, 2022, 2026)
 
 ## Links
 
